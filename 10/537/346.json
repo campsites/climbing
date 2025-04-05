@@ -1,1 +1,1 @@
-{"212441175":{"lat":50.1445441,"lon":8.935518,"ts":"2023-10-06T11:22:18Z","tz":1,"tags":{"addr:city":"Hanau","addr:country":"DE","addr:housenumber":"4","addr:street":"Curt-Möbius-Straße","building":"sports_hall","leisure":"sports_centre","name":"Kletterhalle DAV","sport":"climbing"}}}
+{"212441175":{"location":[50.1445441,8.935518],"ts":"2023-10-06T11:22:18Z","tz":1,"tags":{"addr:city":"Hanau","addr:country":"DE","addr:housenumber":"4","addr:street":"Curt-Möbius-Straße","building":"sports_hall","leisure":"sports_centre","name":"Kletterhalle DAV","sport":"climbing"}}}

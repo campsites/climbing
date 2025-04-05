@@ -1,1 +1,1 @@
-{"224842967":{"lat":55.5950148,"lon":14.1777392,"ts":"2013-06-08T11:01:26Z","tz":1,"tags":{"man_made":"tower","sport":"climbing"}},"1350422325":{"lat":55.5950137,"lon":14.1777418,"ts":"2011-07-05T16:03:53Z","tz":1,"tags":{"man_made":"tower","sport":"climbing"}}}
+{"224842967":{"location":[55.5950148,14.1777392],"ts":"2013-06-08T11:01:26Z","tz":1,"tags":{"man_made":"tower","sport":"climbing"}},"1350422325":{"location":[55.5950137,14.1777418],"ts":"2011-07-05T16:03:53Z","tz":1,"tags":{"man_made":"tower","sport":"climbing"}}}

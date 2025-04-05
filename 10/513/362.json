@@ -1,1 +1,1 @@
-{"11101213385":{"lat":46.4466371,"lon":0.5605297,"ts":"2023-08-09T09:04:33Z","tz":1,"tags":{"addr:city":"Dienné","addr:postcode":"86410","leisure":"sports_centre","name":"Accrobranche DéfiPlanet'","sport":"climbing"}}}
+{"11101213385":{"location":[46.4466371,0.5605297],"ts":"2023-08-09T09:04:33Z","tz":1,"tags":{"addr:city":"Dienné","addr:postcode":"86410","leisure":"sports_centre","name":"Accrobranche DéfiPlanet'","sport":"climbing"}}}

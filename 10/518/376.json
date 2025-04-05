@@ -1,1 +1,1 @@
-{"8264044719":{"lat":42.8687156,"lon":2.1820932,"ts":"2021-08-28T19:13:33Z","tz":1,"tags":{"addr:street":"Chemin de Carach","leisure":"sports_centre","source":"Le ministère de la ville, de la jeunesse et des sports - 01/2018","sport":"climbing","surface":"concrete"}}}
+{"8264044719":{"location":[42.8687156,2.1820932],"ts":"2021-08-28T19:13:33Z","tz":1,"tags":{"addr:street":"Chemin de Carach","leisure":"sports_centre","source":"Le ministère de la ville, de la jeunesse et des sports - 01/2018","sport":"climbing","surface":"concrete"}}}

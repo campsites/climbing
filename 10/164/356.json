@@ -1,1 +1,1 @@
-{"734090314":{"lat":47.8866901,"lon":-122.2797743,"ts":"2024-03-27T00:32:27Z","tz":-8,"tags":{"addr:housenumber":"12300","addr:state":"WA","addr:street":"Beverly Park Road","building":"yes","leisure":"sports_centre","name":"Vertical World","sport":"climbing"}}}
+{"734090314":{"location":[47.8866901,-122.2797743],"ts":"2024-03-27T00:32:27Z","tz":-8,"tags":{"addr:housenumber":"12300","addr:state":"WA","addr:street":"Beverly Park Road","building":"yes","leisure":"sports_centre","name":"Vertical World","sport":"climbing"}}}

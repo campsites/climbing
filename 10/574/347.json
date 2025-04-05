@@ -1,1 +1,1 @@
-{"979808824":{"lat":50.05073,"lon":21.9821108,"ts":"2021-09-05T13:39:34Z","tz":1,"tags":{"leisure":"playground","sport":"climbing"}},"10971041470":{"lat":50.0461887,"lon":22.0152747,"ts":"2023-06-12T13:34:41Z","tz":1,"tags":{"leisure":"sports_centre","name":"FlyWall","sport":"climbing"}}}
+{"979808824":{"location":[50.05073,21.9821108],"ts":"2021-09-05T13:39:34Z","tz":1,"tags":{"leisure":"playground","sport":"climbing"}},"10971041470":{"location":[50.0461887,22.0152747],"ts":"2023-06-12T13:34:41Z","tz":1,"tags":{"leisure":"sports_centre","name":"FlyWall","sport":"climbing"}}}

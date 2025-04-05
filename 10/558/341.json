@@ -1,1 +1,1 @@
-{"882404421":{"lat":51.3887383,"lon":16.2071172,"ts":"2020-12-22T17:02:20Z","tz":1,"tags":{"addr:city":"Lubin","addr:postcode":"59-300","addr:street":"Jerzego Kukuczki","building":"public","leisure":"sports_centre","name":"Kielich","sport":"climbing"}}}
+{"882404421":{"location":[51.3887383,16.2071172],"ts":"2020-12-22T17:02:20Z","tz":1,"tags":{"addr:city":"Lubin","addr:postcode":"59-300","addr:street":"Jerzego Kukuczki","building":"public","leisure":"sports_centre","name":"Kielich","sport":"climbing"}}}

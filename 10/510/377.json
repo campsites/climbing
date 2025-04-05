@@ -1,1 +1,1 @@
-{"763727147":{"lat":42.7635094,"lon":-0.5097465,"ts":"2023-11-05T15:24:57Z","tz":1,"tags":{"height":"50","name":"Coll de Ladrones","natural":"bare_rock","sport":"climbing"}},"9116430378":{"lat":42.8096372,"lon":-0.4031124,"ts":"2021-09-23T09:36:44Z","tz":1,"tags":{"sport":"climbing"}}}
+{"763727147":{"location":[42.7635094,-0.5097465],"ts":"2023-11-05T15:24:57Z","tz":1,"tags":{"height":"50","name":"Coll de Ladrones","natural":"bare_rock","sport":"climbing"}},"9116430378":{"location":[42.8096372,-0.4031124],"ts":"2021-09-23T09:36:44Z","tz":1,"tags":{"sport":"climbing"}}}

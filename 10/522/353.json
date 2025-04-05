@@ -1,1 +1,1 @@
-{"3986221932":{"lat":48.51381,"lon":3.71756,"ts":"2016-02-03T14:39:00Z","tz":1,"tags":{"source":"data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014","sport":"climbing"}}}
+{"3986221932":{"location":[48.51381,3.71756],"ts":"2016-02-03T14:39:00Z","tz":1,"tags":{"source":"data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014","sport":"climbing"}}}

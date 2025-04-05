@@ -1,1 +1,1 @@
-{"5766591167":{"lat":50.4330388,"lon":6.0290478,"ts":"2020-06-02T19:54:00Z","tz":1,"tags":{"addr:housenumber":"1","addr:street":"Avenue de la Libération","leisure":"sports_centre","name":"The Wall","sport":"climbing"}}}
+{"5766591167":{"location":[50.4330388,6.0290478],"ts":"2020-06-02T19:54:00Z","tz":1,"tags":{"addr:housenumber":"1","addr:street":"Avenue de la Libération","leisure":"sports_centre","name":"The Wall","sport":"climbing"}}}

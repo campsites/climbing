@@ -1,1 +1,1 @@
-{"992453673":{"lat":48.5772816,"lon":19.1539349,"ts":"2022-02-16T20:59:18Z","tz":1,"tags":{"sport":"climbing"}},"9512079171":{"lat":48.5772861,"lon":19.1539352,"ts":"2022-02-16T20:59:18Z","tz":1,"tags":{"man_made":"tower","sport":"climbing","tower:type":"climbing"}}}
+{"992453673":{"location":[48.5772816,19.1539349],"ts":"2022-02-16T20:59:18Z","tz":1,"tags":{"sport":"climbing"}},"9512079171":{"location":[48.5772861,19.1539352],"ts":"2022-02-16T20:59:18Z","tz":1,"tags":{"man_made":"tower","sport":"climbing","tower:type":"climbing"}}}

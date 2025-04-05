@@ -1,1 +1,1 @@
-{"1355370328":{"lat":32.9023548,"lon":35.2984462,"ts":"2025-01-30T13:02:55Z","tz":2,"tags":{"climbing":"boulder","highway":"path","surface":"rock"}},"1355370329":{"lat":32.9023672,"lon":35.2978145,"ts":"2025-01-30T13:02:55Z","tz":2,"tags":{"climbing":"boulder","highway":"path"}}}
+{"1355370328":{"location":[32.9023548,35.2984462],"ts":"2025-01-30T13:02:55Z","tz":2,"tags":{"climbing":"boulder","highway":"path","surface":"rock"}},"1355370329":{"location":[32.9023672,35.2978145],"ts":"2025-01-30T13:02:55Z","tz":2,"tags":{"climbing":"boulder","highway":"path"}}}

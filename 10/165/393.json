@@ -1,1 +1,1 @@
-{"287542666":{"lat":38.538198,"lon":-121.7387786,"ts":"2021-06-01T23:52:36Z","tz":-8,"tags":{"addr:city":"Davis","addr:housenumber":"720","addr:street":"Olive Dr","building":"commercial","leisure":"sports_centre","name":"Rocknasium","sport":"climbing"}}}
+{"287542666":{"location":[38.538198,-121.7387786],"ts":"2021-06-01T23:52:36Z","tz":-8,"tags":{"addr:city":"Davis","addr:housenumber":"720","addr:street":"Olive Dr","building":"commercial","leisure":"sports_centre","name":"Rocknasium","sport":"climbing"}}}

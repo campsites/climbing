@@ -1,1 +1,1 @@
-{"7762597444":{"lat":45.8749321,"lon":-72.4822925,"ts":"2023-02-20T14:21:33Z","tz":-5,"tags":{"addr:city":"Drummondville","addr:housenumber":"2250","addr:province":"QC","addr:street":"Rue Demers","leisure":"sports_centre","name":"L'Escarpé","sport":"climbing"}}}
+{"7762597444":{"location":[45.8749321,-72.4822925],"ts":"2023-02-20T14:21:33Z","tz":-5,"tags":{"addr:city":"Drummondville","addr:housenumber":"2250","addr:province":"QC","addr:street":"Rue Demers","leisure":"sports_centre","name":"L'Escarpé","sport":"climbing"}}}

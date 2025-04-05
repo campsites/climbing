@@ -1,1 +1,1 @@
-{"6898077069":{"lat":64.3271498,"lon":-22.0574935,"ts":"2019-10-19T12:37:54Z","tz":0,"tags":{"addr:city":"Akranes","addr:housenumber":"17","addr:postcode":"300","addr:street":"Smiðjuvellir","leisure":"sports_centre","name":"Smiðjuloftið","sport":"climbing"}}}
+{"6898077069":{"location":[64.3271498,-22.0574935],"ts":"2019-10-19T12:37:54Z","tz":0,"tags":{"addr:city":"Akranes","addr:housenumber":"17","addr:postcode":"300","addr:street":"Smiðjuvellir","leisure":"sports_centre","name":"Smiðjuloftið","sport":"climbing"}}}

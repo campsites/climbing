@@ -1,1 +1,1 @@
-{"7599050957":{"lat":42.2825451,"lon":-83.383252,"ts":"2020-06-06T23:47:00Z","tz":-5,"tags":{"addr:city":"Wayne","addr:housenumber":"35004","addr:postcode":"48184","addr:state":"MI","addr:street":"Michigan Avenue","leisure":"sports_centre","name":"Kicks Tae Kwon Do","sport":"climbing"}}}
+{"7599050957":{"location":[42.2825451,-83.383252],"ts":"2020-06-06T23:47:00Z","tz":-5,"tags":{"addr:city":"Wayne","addr:housenumber":"35004","addr:postcode":"48184","addr:state":"MI","addr:street":"Michigan Avenue","leisure":"sports_centre","name":"Kicks Tae Kwon Do","sport":"climbing"}}}

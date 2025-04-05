@@ -1,1 +1,1 @@
-{"8015720425":{"lat":53.0714826,"lon":10.0041684,"ts":"2020-10-17T08:39:48Z","tz":1,"tags":{"access":"customers","indoor":"yes","leisure":"pitch","sport":"climbing"}}}
+{"8015720425":{"location":[53.0714826,10.0041684],"ts":"2020-10-17T08:39:48Z","tz":1,"tags":{"access":"customers","indoor":"yes","leisure":"pitch","sport":"climbing"}}}

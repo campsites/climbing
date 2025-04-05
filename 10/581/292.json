@@ -1,1 +1,1 @@
-{"1167365889":{"lat":60.7844548,"lon":24.5947583,"ts":"2023-04-29T14:51:26Z","tz":2,"tags":{"natural":"cliff","sport":"climbing"}},"1290458205":{"lat":60.7853347,"lon":24.5943773,"ts":"2024-06-08T15:24:24Z","tz":2,"tags":{"natural":"cliff","sport":"climbing"}}}
+{"1167365889":{"location":[60.7844548,24.5947583],"ts":"2023-04-29T14:51:26Z","tz":2,"tags":{"natural":"cliff","sport":"climbing"}},"1290458205":{"location":[60.7853347,24.5943773],"ts":"2024-06-08T15:24:24Z","tz":2,"tags":{"natural":"cliff","sport":"climbing"}}}

@@ -1,1 +1,1 @@
-{"4609586837":{"lat":42.7859795,"lon":11.1035827,"ts":"2017-01-15T12:37:57Z","tz":1,"tags":{"addr:city":"Grosseto","addr:housenumber":"87","addr:street":"Via Siria","leisure":"fitness_centre","name":"K2 Climbing Gym","sport":"climbing"}}}
+{"4609586837":{"location":[42.7859795,11.1035827],"ts":"2017-01-15T12:37:57Z","tz":1,"tags":{"addr:city":"Grosseto","addr:housenumber":"87","addr:street":"Via Siria","leisure":"fitness_centre","name":"K2 Climbing Gym","sport":"climbing"}}}

@@ -1,1 +1,1 @@
-{"10874613222":{"lat":19.3163517,"lon":-98.2464608,"ts":"2023-05-06T23:41:07Z","tz":-6,"tags":{"addr:city":"San Hipólito Chimalpa","addr:housenumber":"4","addr:street":"Privada Tizatlán","leisure":"sports_centre","name":"F2 Sala de Escalada","sport":"climbing"}}}
+{"10874613222":{"location":[19.3163517,-98.2464608],"ts":"2023-05-06T23:41:07Z","tz":-6,"tags":{"addr:city":"San Hipólito Chimalpa","addr:housenumber":"4","addr:street":"Privada Tizatlán","leisure":"sports_centre","name":"F2 Sala de Escalada","sport":"climbing"}}}

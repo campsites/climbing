@@ -1,1 +1,1 @@
-{"3497308699":{"lat":44.2163451,"lon":39.8902982,"ts":"2016-11-10T19:09:10Z","tz":4,"tags":{"sport":"climbing"}},"5045062947":{"lat":44.2140946,"lon":39.9141304,"ts":"2023-10-24T04:10:18Z","tz":4,"tags":{"fee":"yes","leisure":"sports_centre","name":"Скалодром","sport":"climbing"}}}
+{"3497308699":{"location":[44.2163451,39.8902982],"ts":"2016-11-10T19:09:10Z","tz":4,"tags":{"sport":"climbing"}},"5045062947":{"location":[44.2140946,39.9141304],"ts":"2023-10-24T04:10:18Z","tz":4,"tags":{"fee":"yes","leisure":"sports_centre","name":"Скалодром","sport":"climbing"}}}

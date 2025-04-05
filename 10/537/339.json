@@ -1,1 +1,1 @@
-{"477034333":{"lat":51.7651992,"lon":8.9415778,"ts":"2017-02-24T22:12:45Z","tz":1,"tags":{"barrier":"wall","leisure":"boulder","sport":"climbing"}},"2209048396":{"lat":51.7800284,"lon":8.8170096,"ts":"2018-04-13T12:29:17Z","tz":1,"tags":{"sport":"climbing"}}}
+{"477034333":{"location":[51.7651992,8.9415778],"ts":"2017-02-24T22:12:45Z","tz":1,"tags":{"barrier":"wall","leisure":"boulder","sport":"climbing"}},"2209048396":{"location":[51.7800284,8.8170096],"ts":"2018-04-13T12:29:17Z","tz":1,"tags":{"sport":"climbing"}}}

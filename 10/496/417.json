@@ -1,1 +1,1 @@
-{"1601570379":{"lat":31.593762,"lon":-5.5983752,"ts":"2012-01-22T19:36:56Z","tz":0,"tags":{"name":"Scorpion","natural":"cliff","sport":"climbing"}},"11889791750":{"lat":31.5908909,"lon":-5.5956972,"ts":"2024-05-08T20:45:25Z","tz":0,"tags":{"source":"survey","sport":"climbing"}}}
+{"1601570379":{"location":[31.593762,-5.5983752],"ts":"2012-01-22T19:36:56Z","tz":0,"tags":{"name":"Scorpion","natural":"cliff","sport":"climbing"}},"11889791750":{"location":[31.5908909,-5.5956972],"ts":"2024-05-08T20:45:25Z","tz":0,"tags":{"source":"survey","sport":"climbing"}}}

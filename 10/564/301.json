@@ -1,1 +1,1 @@
-{"114517116":{"lat":59.3279854,"lon":18.3172267,"ts":"2013-05-10T18:48:07Z","tz":1,"tags":{"name":"Ekoberget","natural":"cliff","sport":"climbing"}},"3387845549":{"lat":59.343105,"lon":18.3790675,"ts":"2015-08-09T22:17:31Z","tz":1,"tags":{"sport":"climbing"}}}
+{"114517116":{"location":[59.3279854,18.3172267],"ts":"2013-05-10T18:48:07Z","tz":1,"tags":{"name":"Ekoberget","natural":"cliff","sport":"climbing"}},"3387845549":{"location":[59.343105,18.3790675],"ts":"2015-08-09T22:17:31Z","tz":1,"tags":{"sport":"climbing"}}}

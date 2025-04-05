@@ -1,1 +1,1 @@
-{"858046301":{"lat":67.5555511,"lon":33.4241047,"ts":"2021-04-22T07:21:23Z","tz":4,"tags":{"addr:housenumber":"12","addr:street":"улица Сидоренко","building":"yes","leisure":"sports_centre","name":"Вертикаль","sport":"climbing"}}}
+{"858046301":{"location":[67.5555511,33.4241047],"ts":"2021-04-22T07:21:23Z","tz":4,"tags":{"addr:housenumber":"12","addr:street":"улица Сидоренко","building":"yes","leisure":"sports_centre","name":"Вертикаль","sport":"climbing"}}}

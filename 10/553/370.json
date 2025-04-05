@@ -1,1 +1,1 @@
-{"1298890186":{"lat":44.5183627,"lon":14.4791093,"ts":"2011-05-24T22:37:56Z","tz":1,"tags":{"leisure":"track","sport":"climbing"}},"11196530402":{"lat":44.4951631,"lon":14.5103821,"ts":"2023-09-16T20:35:47Z","tz":1,"tags":{"name":"Balvanida","sport":"climbing"}}}
+{"1298890186":{"location":[44.5183627,14.4791093],"ts":"2011-05-24T22:37:56Z","tz":1,"tags":{"leisure":"track","sport":"climbing"}},"11196530402":{"location":[44.4951631,14.5103821],"ts":"2023-09-16T20:35:47Z","tz":1,"tags":{"name":"Balvanida","sport":"climbing"}}}

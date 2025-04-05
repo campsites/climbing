@@ -1,1 +1,1 @@
-{"3392161456":{"lat":55.0148703,"lon":82.948019,"ts":"2015-03-10T07:47:39Z","tz":7,"tags":{"addr:city":"Новосибирск","addr:housenumber":"82","addr:street":"улица Кирова","name":"Panorama |  Центр активного отдыха","name:en":"Panorama | Leisure activity centre","sport":"climbing"}}}
+{"3392161456":{"location":[55.0148703,82.948019],"ts":"2015-03-10T07:47:39Z","tz":7,"tags":{"addr:city":"Новосибирск","addr:housenumber":"82","addr:street":"улица Кирова","name":"Panorama |  Центр активного отдыха","name:en":"Panorama | Leisure activity centre","sport":"climbing"}}}

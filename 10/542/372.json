@@ -1,1 +1,1 @@
-{"497924543":{"lat":44.0805557,"lon":10.8218919,"ts":"2017-06-03T18:34:46Z","tz":1,"tags":{"name":"Sasso del Falco","natural":"cliff","sport":"climbing"}},"1709664769":{"lat":43.8689669,"lon":10.8298516,"ts":"2022-10-01T19:45:10Z","tz":1,"tags":{"name":"Cava Rossa","sport":"climbing"}}}
+{"497924543":{"location":[44.0805557,10.8218919],"ts":"2017-06-03T18:34:46Z","tz":1,"tags":{"name":"Sasso del Falco","natural":"cliff","sport":"climbing"}},"1709664769":{"location":[43.8689669,10.8298516],"ts":"2022-10-01T19:45:10Z","tz":1,"tags":{"name":"Cava Rossa","sport":"climbing"}}}

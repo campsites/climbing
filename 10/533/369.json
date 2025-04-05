@@ -1,1 +1,1 @@
-{"384777594":{"lat":44.6506738,"lon":7.4805573,"ts":"2024-11-02T12:32:17Z","tz":1,"tags":{"addr:city":"Saluzzo","addr:housenumber":"57","addr:street":"Via della Croce","addr:unit":"A","building":"yes","leisure":"sports_centre","name":"Alpiteca","sport":"climbing"}}}
+{"384777594":{"location":[44.6506738,7.4805573],"ts":"2024-11-02T12:32:17Z","tz":1,"tags":{"addr:city":"Saluzzo","addr:housenumber":"57","addr:street":"Via della Croce","addr:unit":"A","building":"yes","leisure":"sports_centre","name":"Alpiteca","sport":"climbing"}}}

@@ -1,1 +1,1 @@
-{"4606934970":{"lat":62.7903061,"lon":22.84911,"ts":"2020-07-08T19:02:59Z","tz":2,"tags":{"addr:city":"Seinäjoki","addr:housenumber":"4","addr:postcode":"60100","addr:street":"Ruukintie","leisure":"sports_centre","name":"Murikka","sport":"climbing"}}}
+{"4606934970":{"location":[62.7903061,22.84911],"ts":"2020-07-08T19:02:59Z","tz":2,"tags":{"addr:city":"Seinäjoki","addr:housenumber":"4","addr:postcode":"60100","addr:street":"Ruukintie","leisure":"sports_centre","name":"Murikka","sport":"climbing"}}}

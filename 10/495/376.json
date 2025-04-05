@@ -1,1 +1,1 @@
-{"6551437621":{"lat":42.9206101,"lon":-5.8397494,"ts":"2019-06-16T17:49:17Z","tz":1,"tags":{"leisure":"pitch","sport":"climbing"}},"11283236190":{"lat":42.881238,"lon":-5.7702684,"ts":"2023-10-26T11:22:39Z","tz":1,"tags":{"leisure":"sports_centre","sport":"climbing"}}}
+{"6551437621":{"location":[42.9206101,-5.8397494],"ts":"2019-06-16T17:49:17Z","tz":1,"tags":{"leisure":"pitch","sport":"climbing"}},"11283236190":{"location":[42.881238,-5.7702684],"ts":"2023-10-26T11:22:39Z","tz":1,"tags":{"leisure":"sports_centre","sport":"climbing"}}}

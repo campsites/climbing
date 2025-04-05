@@ -1,1 +1,1 @@
-{"7717755605":{"lat":42.1201397,"lon":-80.0915208,"ts":"2020-07-15T20:10:18Z","tz":-5,"tags":{"addr:city":"Erie","addr:housenumber":"446","addr:postcode":"16501","addr:state":"PA","addr:street":"West 12th Street","leisure":"sports_centre","name":"Gem City Rocks","sport":"climbing"}}}
+{"7717755605":{"location":[42.1201397,-80.0915208],"ts":"2020-07-15T20:10:18Z","tz":-5,"tags":{"addr:city":"Erie","addr:housenumber":"446","addr:postcode":"16501","addr:state":"PA","addr:street":"West 12th Street","leisure":"sports_centre","name":"Gem City Rocks","sport":"climbing"}}}

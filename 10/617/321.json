@@ -1,1 +1,1 @@
-{"1115150663":{"lat":55.5279012,"lon":37.0804296,"ts":"2024-03-07T13:45:21Z","tz":4,"tags":{"addr:housenumber":"2Р","addr:place":"Мартемьяново","building":"yes","leisure":"sports_centre","source:addr":"ЕГРН","sport":"climbing"}}}
+{"1115150663":{"location":[55.5279012,37.0804296],"ts":"2024-03-07T13:45:21Z","tz":4,"tags":{"addr:housenumber":"2Р","addr:place":"Мартемьяново","building":"yes","leisure":"sports_centre","source:addr":"ЕГРН","sport":"climbing"}}}

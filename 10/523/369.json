@@ -1,1 +1,1 @@
-{"366498352":{"lat":44.609617,"lon":4.0982254,"ts":"2021-01-15T22:32:53Z","tz":1,"tags":{"natural":"bare_rock","sport":"climbing"}},"7036583411":{"lat":44.8170015,"lon":4.2174236,"ts":"2019-12-05T17:44:43Z","tz":1,"tags":{"leisure":"sports_centre","sport":"climbing"}}}
+{"366498352":{"location":[44.609617,4.0982254],"ts":"2021-01-15T22:32:53Z","tz":1,"tags":{"natural":"bare_rock","sport":"climbing"}},"7036583411":{"location":[44.8170015,4.2174236],"ts":"2019-12-05T17:44:43Z","tz":1,"tags":{"leisure":"sports_centre","sport":"climbing"}}}
