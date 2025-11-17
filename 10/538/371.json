@@ -1,1 +1,1 @@
-{"2328497262":{"location":[44.237223,9.4634785],"ts":"2013-06-01T20:59:34Z","tags":{"name":"Salto Nel Blu","sport":"climbing"}},"4025259169":{"location":[44.2841525,9.3862087],"ts":"2016-02-25T07:35:36Z","tags":{"climbing:bolted":"yes","name":"falesia di Sant’Anna","sport":"climbing"}}}
+{"2328497262":{"location":[44.237223,9.4634785],"tp":"CL","ts":"2013-06-01T20:59:34Z","tags":{"name":"Salto Nel Blu"}},"4025259169":{"location":[44.2841525,9.3862087],"tp":"CL","ts":"2016-02-25T07:35:36Z","tags":{"climbing:bolted":"yes","name":"falesia di Sant’Anna"}}}
